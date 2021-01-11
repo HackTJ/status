@@ -2,6 +2,8 @@ owner: HackTJ
 repo: status
 
 sites:
+  - name: HackTJ
+    url: https://hacktj.org
   - name: HackTJ 8.0
     url: https://hacktj.org/2021
   - name: HackTJ 7.5
