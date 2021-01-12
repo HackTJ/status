@@ -6,20 +6,28 @@ sites:
     url: https://hacktj.org
   - name: HackTJ 8.0
     url: https://hacktj.org/2021
+    icon: https://hacktj.org/2021/favicon.ico
   - name: HackTJ 7.5
     url: https://hacktj.org/2020v2
+    icon: https://hacktj.org/2020v2/favicon.ico
   - name: HackTJ 7.0
     url: https://hacktj.org/2020
+    icon: https://hacktj.org/2020/favicon.ico
   - name: HackTJ 6.0
     url: https://hacktj.org/2019
+    icon: https://hacktj.org/2019/img/logo2.png
   - name: HackTJ 5.0
     url: https://hacktj.org/2018
+    icon: https://hacktj.org/2018/img/favicon.png
   - name: HackTJ 4.0
     url: https://hacktj.org/2017
+    icon: https://hacktj.org/2017/img/favicon.png
   - name: HackTJ 3.0
     url: https://hacktj.org/2016
+    icon: https://hacktj.org/2016/img/favicon.png
   - name: HackTJ 2.0
     url: https://hacktj.org/2015
+    icon: https://hacktj.org/2015/img/favicon.png
 
 status-website:
   cname: status.hacktj.org
