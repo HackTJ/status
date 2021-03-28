@@ -33,7 +33,7 @@ status-website:
   cname: status.hacktj.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/logo.svg
+  logoUrl: https://raw.githubusercontent.com/HackTJ/status/master/logo.svg
   name: HackTJ Status
   introTitle: "The official HackTJ uptime monitor and status page."
   introMessage: Real-time monitoring for HackTJ sites, powered by [Upptime](https://github.com/upptime/upptime).
