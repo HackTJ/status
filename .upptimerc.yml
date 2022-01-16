@@ -4,6 +4,9 @@ repo: status
 sites:
   - name: HackTJ
     url: https://hacktj.org
+  - name: HackTJ 9.0
+    url: https://hacktj.org/2022
+    icon: https://hacktj.org/2022/favicon.ico
   - name: HackTJ 8.0
     url: https://hacktj.org/2021
     icon: https://hacktj.org/2021/favicon.ico
