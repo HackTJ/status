@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "HackTJ 9.0",
+    "url": "https://hacktj.org/2022",
+    "icon": "https://hacktj.org/2022/favicon.ico",
+    "slug": "hack-tj-9-0",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "HackTJ 8.0",
     "url": "https://hacktj.org/2021",
     "icon": "https://hacktj.org/2021/favicon.ico",
