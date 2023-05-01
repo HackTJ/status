@@ -130,18 +130,20 @@
     "url": "https://hacktj.org/2017",
     "icon": "https://hacktj.org/2017/img/favicon.png",
     "slug": "hack-tj-4-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 104,
-    "timeWeek": 119,
+    "timeDay": 107,
+    "timeWeek": 118,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-01": 0
+    }
   },
   {
     "name": "HackTJ 3.0",
