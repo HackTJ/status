@@ -4,9 +4,13 @@ repo: status
 sites:
   - name: HackTJ
     url: https://hacktj.org
+    icon: https://hacktj.org/favicon.png
+  - name: HackTJ 11.0
+    url: https://hacktj.org/2024
+  - name: HackTJ 10.0
+    url: https://hacktj.org/2023
   - name: HackTJ 9.0
     url: https://hacktj.org/2022
-    icon: https://hacktj.org/2022/favicon.ico
   - name: HackTJ 8.0
     url: https://hacktj.org/2021
     icon: https://hacktj.org/2021/favicon.ico
@@ -38,7 +42,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/HackTJ/status/master/logo.svg
   name: HackTJ Status
-  introTitle: "The official HackTJ uptime monitor and status page."
+  introTitle: "The official HackTJ status page."
   introMessage: Real-time monitoring for HackTJ sites, powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
