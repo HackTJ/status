@@ -435,19 +435,19 @@
     "url": "https://hacktj.org/2016",
     "icon": "https://hacktj.org/2016/img/favicon.png",
     "slug": "hack-tj-3-0",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 1164,
-    "timeWeek": 335,
-    "timeMonth": 152,
+    "time": 108,
+    "timeDay": 795,
+    "timeWeek": 304,
+    "timeMonth": 149,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-03-28": 0
+      "2024-03-28": 14
     }
   },
   {
