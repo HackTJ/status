@@ -112,19 +112,19 @@
     "url": "https://hacktj.org/2020",
     "icon": "https://hacktj.org/2020/favicon.ico",
     "slug": "hack-tj-7-0",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 50,
-    "timeWeek": 73,
-    "timeMonth": 92,
+    "timeDay": 49,
+    "timeWeek": 70,
+    "timeMonth": 91,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-05-12": 0
+      "2025-05-12": 13
     }
   },
   {
