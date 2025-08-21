@@ -4,19 +4,19 @@
     "url": "https://hacktj.org",
     "icon": "https://hacktj.org/favicon.png",
     "slug": "hack-tj",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 235,
-    "timeWeek": 384,
-    "timeMonth": 328,
-    "timeYear": 269,
+    "time": 264,
+    "timeDay": 435,
+    "timeWeek": 415,
+    "timeMonth": 337,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-21": 5
     }
   },
   {
