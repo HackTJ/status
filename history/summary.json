@@ -4,16 +4,16 @@
     "url": "https://hacktj.org",
     "icon": "https://hacktj.org/favicon.png",
     "slug": "hack-tj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 198,
-    "timeWeek": 304,
-    "timeMonth": 262,
+    "timeDay": 181,
+    "timeWeek": 287,
+    "timeMonth": 258,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-11-18": 22
@@ -24,19 +24,19 @@
     "url": "https://hacktj.org/2024",
     "icon": "https://icons.duckduckgo.com/ip3/hacktj.org.ico",
     "slug": "hack-tj-11-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 85,
-    "timeWeek": 117,
-    "timeMonth": 131,
+    "timeDay": 69,
+    "timeWeek": 108,
+    "timeMonth": 128,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://hacktj.org/2023",
     "icon": "https://icons.duckduckgo.com/ip3/hacktj.org.ico",
     "slug": "hack-tj-10-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 70,
-    "timeWeek": 123,
-    "timeMonth": 125,
+    "timeDay": 58,
+    "timeWeek": 113,
+    "timeMonth": 122,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://hacktj.org/2022",
     "icon": "https://icons.duckduckgo.com/ip3/hacktj.org.ico",
     "slug": "hack-tj-9-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 70,
-    "timeWeek": 110,
-    "timeMonth": 119,
-    "timeYear": 114,
+    "timeDay": 58,
+    "timeWeek": 101,
+    "timeMonth": 116,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://hacktj.org/2021",
     "icon": "https://hacktj.org/2021/favicon.ico",
     "slug": "hack-tj-8-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 72,
-    "timeWeek": 113,
-    "timeMonth": 126,
+    "timeDay": 59,
+    "timeWeek": 104,
+    "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://hacktj.org/2020v2",
     "icon": "https://hacktj.org/2020v2/favicon.ico",
     "slug": "hack-tj-7-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 72,
-    "timeWeek": 113,
-    "timeMonth": 127,
+    "timeDay": 59,
+    "timeWeek": 104,
+    "timeMonth": 124,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://hacktj.org/2020",
     "icon": "https://hacktj.org/2020/favicon.ico",
     "slug": "hack-tj-7-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 64,
-    "timeWeek": 107,
-    "timeMonth": 117,
+    "timeDay": 54,
+    "timeWeek": 98,
+    "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://hacktj.org/2019",
     "icon": "https://hacktj.org/2019/img/logo2.png",
     "slug": "hack-tj-6-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 70,
-    "timeWeek": 108,
-    "timeMonth": 124,
+    "timeDay": 58,
+    "timeWeek": 99,
+    "timeMonth": 121,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://hacktj.org/2018",
     "icon": "https://hacktj.org/2018/img/favicon.png",
     "slug": "hack-tj-5-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 69,
-    "timeWeek": 112,
-    "timeMonth": 127,
+    "timeDay": 57,
+    "timeWeek": 103,
+    "timeMonth": 124,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://hacktj.org/2017",
     "icon": "https://hacktj.org/2017/img/favicon.png",
     "slug": "hack-tj-4-0",
-    "status": "up",
+    "status": "down",
     "uptime": "87.08%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 64,
-    "timeWeek": 110,
-    "timeMonth": 127,
+    "timeDay": 54,
+    "timeWeek": 101,
+    "timeMonth": 124,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://hacktj.org/2016",
     "icon": "https://hacktj.org/2016/img/favicon.png",
     "slug": "hack-tj-3-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 101,
-    "timeWeek": 119,
-    "timeMonth": 133,
+    "timeDay": 81,
+    "timeWeek": 109,
+    "timeMonth": 130,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://hacktj.org/2015",
     "icon": "https://hacktj.org/2015/img/favicon.png",
     "slug": "hack-tj-2-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 115,
-    "timeWeek": 121,
-    "timeMonth": 134,
-    "timeYear": 115,
+    "timeDay": 91,
+    "timeWeek": 111,
+    "timeMonth": 131,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-11-18": 22
+      "2025-11-18": 23
     }
   }
 ]
