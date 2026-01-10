@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 278,
-    "timeDay": 382,
-    "timeWeek": 315,
-    "timeMonth": 300,
+    "timeDay": 466,
+    "timeWeek": 336,
+    "timeMonth": 303,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 114,
-    "timeDay": 236,
-    "timeWeek": 96,
-    "timeMonth": 121,
+    "time": 115,
+    "timeDay": 273,
+    "timeWeek": 120,
+    "timeMonth": 126,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 113,
-    "timeDay": 235,
-    "timeWeek": 89,
-    "timeMonth": 110,
+    "time": 114,
+    "timeDay": 252,
+    "timeWeek": 109,
+    "timeMonth": 114,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 217,
-    "timeWeek": 101,
-    "timeMonth": 115,
+    "timeDay": 336,
+    "timeWeek": 133,
+    "timeMonth": 122,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 124,
-    "timeDay": 232,
-    "timeWeek": 95,
-    "timeMonth": 118,
-    "timeYear": 134,
+    "time": 125,
+    "timeDay": 257,
+    "timeWeek": 115,
+    "timeMonth": 121,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2025-11-18": 128
     }
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 217,
-    "timeWeek": 75,
-    "timeMonth": 105,
-    "timeYear": 118,
+    "timeDay": 255,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2025-11-18": 128
     }
@@ -131,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 211,
-    "timeWeek": 74,
-    "timeMonth": 104,
-    "timeYear": 114,
+    "timeDay": 247,
+    "timeWeek": 107,
+    "timeMonth": 108,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-11-18": 128
     }
@@ -151,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 226,
-    "timeWeek": 92,
-    "timeMonth": 110,
+    "timeDay": 255,
+    "timeWeek": 111,
+    "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -171,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 253,
-    "timeWeek": 79,
-    "timeMonth": 105,
+    "timeDay": 240,
+    "timeWeek": 111,
+    "timeMonth": 108,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -185,15 +185,15 @@
     "icon": "https://hacktj.org/2017/img/favicon.png",
     "slug": "hack-tj-4-0",
     "status": "up",
-    "uptime": "87.44%",
+    "uptime": "87.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 109,
-    "timeDay": 188,
-    "timeWeek": 83,
-    "timeMonth": 110,
+    "time": 110,
+    "timeDay": 239,
+    "timeWeek": 100,
+    "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -211,9 +211,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 222,
-    "timeWeek": 77,
-    "timeMonth": 106,
+    "timeDay": 241,
+    "timeWeek": 109,
+    "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -231,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 114,
-    "timeDay": 204,
-    "timeWeek": 103,
-    "timeMonth": 116,
+    "timeDay": 246,
+    "timeWeek": 120,
+    "timeMonth": 118,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-11-18": 129
