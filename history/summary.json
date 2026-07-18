@@ -25,20 +25,20 @@
     "url": "https://hacktj.org/2024",
     "icon": "https://icons.duckduckgo.com/ip3/hacktj.org.ico",
     "slug": "hack-tj-11-0",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 196,
-    "timeDay": 15266,
-    "timeWeek": 4031,
-    "timeMonth": 1181,
+    "timeDay": 10245,
+    "timeWeek": 3606,
+    "timeMonth": 1151,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-11-18": 128,
-      "2026-07-18": 6
+      "2026-07-18": 43
     }
   },
   {
@@ -106,20 +106,20 @@
     "url": "https://hacktj.org/2020v2",
     "icon": "https://hacktj.org/2020v2/favicon.ico",
     "slug": "hack-tj-7-5",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 164,
-    "timeDay": 7843,
-    "timeWeek": 2146,
-    "timeMonth": 687,
+    "time": 165,
+    "timeDay": 5306,
+    "timeWeek": 1934,
+    "timeMonth": 673,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-11-18": 128,
-      "2026-07-18": 3
+      "2026-07-18": 40
     }
   },
   {
